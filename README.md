@@ -64,13 +64,7 @@ Jupyter Lab
 
 VS Code with Jupyter extension
 
-Or online via:
 
-Google Colab (commonly used for free access to GPUs)
-
-Kaggle Notebooks
-
-The notebook structure is perfect for step-by-step deep learning workflows like this one.
 
 # Real-Life Applications of Image Classification
 Image classification using CNNs is widely applied in real-world scenarios:
