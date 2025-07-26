@@ -104,3 +104,6 @@ Image classification forms the basis of more advanced tasks like object detectio
 # Summary
 In this project, a CNN-based deep learning model is developed to solve an image classification problem. The model learns to identify patterns in images and classify them into predefined categories. Using TensorFlow/Keras in a Jupyter Notebook environment, the project covers image preprocessing, model architecture design, training, and evaluation. Such solutions are foundational in many real-life domains, from healthcare diagnostics to autonomous systems and beyond, making image classification one of the most impactful applications of AI today.
 
+# Output :
+
+<img width="911" height="533" alt="Image" src="https://github.com/user-attachments/assets/8a860744-9550-4028-b022-57be3976bb06" />
